@@ -17,3 +17,10 @@ Uses cameras for object detection
 Relies on IoT and Machine Learning for predictive maintenance
 Provides remote accessibility of data 24/7 via the internet
 
+## Key Features:
+Machine Health Monitoring
+Energy Monitoring
+Object Detection
+Environmental Monitoring
+Scalable Design for Large Industries
+
